@@ -28,8 +28,8 @@
 
 <div align="center">    
         <h3>Com grande alegria trago a vocês meu portifolio com demonstrações de todo meu trabalho como Desevolvedor e Web Design</h3>    
-        <a href"https://www.facebook.com/VitorCostaTI"> <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> </a>
-        <a href"nkedin.com/in/vitor-costa-10566b22a/">  <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
+        <a href="https://www.facebook.com/VitorCostaTI"> <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /> </a>
+       <a href="https://www.linkedin.com/in/vitor-costa-10566b22a/">   <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
        <h4>  Me siga nas redes sociais para saber mais </h4>
  </div>
 
