@@ -1,10 +1,4 @@
-<style>
-    .container{
-       display:flex
-    }
-</style>    
-
-    
+   
 <div align="center">
     <h1> Seja bem vindo ao meu GitHub !!</h1>
 </div>
