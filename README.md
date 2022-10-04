@@ -20,7 +20,6 @@
     <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> &nbsp;
 </div>
 <br>
-<br>
 <div align="center">
     <h3>Com grande alegria trago a vocês meu portifolio, com demonstrações de todo meu trabalho como Desenvolvedor e Web
         Design</h3>
