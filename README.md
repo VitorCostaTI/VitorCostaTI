@@ -1,26 +1,49 @@
-<head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-</head>
-
-<i class="devicon-html5-plain-wordmark colored"></i>
-<div align="center">
-    <h1> Seja bem vindo ao meu GitHub !!</h1>
-</div>
+# Bem-vindo ao meu GitHub!
 
 <div align="center">
-    <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />&nbsp;
-    <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> &nbsp;
-    <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> &nbsp;
-    <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> &nbsp;
-    <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;
-    <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> &nbsp;
-    <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="72">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="72">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="72">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="72">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="72">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="72">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="72">
 </div>
-<br>
+
+---
+
+## Portfólio
+
 <div align="center">
-    <h3>Com grande alegria trago a vocês meu portifolio, com demonstrações de todo meu trabalho como Desenvolvedor e Web
-        Design</h3>
-        <img height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <p>Explore meu portfólio e descubra meu trabalho como Desenvolvedor Web.</p>
+    <p>Veja mais detalhes no meu perfil do <a href="https://www.linkedin.com/">LinkedIn</a>.</p>
+    <a href="https://www.linkedin.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="72">
     </a>
-    <h4> Me siga no linkedin para saber mais </h4>
+</div>
+
+---
+
+### Sobre Mim
+
+<div align="justify">
+    <p>Sou um apaixonado por tecnologia, dedicado a criar soluções inovadoras e funcionais.</p>
+    <p>Meu foco principal inclui desenvolvimento web, aplicativos móveis e muito mais.</p>
+</div>
+
+---
+
+#### Contato
+
+<div align="center">
+    <p>Vamos trabalhar em novos projetos? Entre em contato comigo!</p>
+    <p>Email: vitortecnologia62@gmail.com</p>
+</div>
+
+---
+
+##### Direitos Autorais
+
+<div align="center">
+    <p>&copy; 2024 Seu Nome. Todos os direitos reservados.</p>
 </div>
